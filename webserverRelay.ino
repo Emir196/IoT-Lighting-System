@@ -4,8 +4,8 @@
 
     #define RELAY_PIN 25  // Röle pin tanımı
     
-    const char* ssid = "emir";      // WiFi ağ adınız
-    const char* password = "internet";  // WiFi şifreniz
+    const char* ssid = "WIFI";      // WiFi ağ adınız
+    const char* password = "PASSWORD";  // WiFi şifreniz
 
     bool relayState = false;  // Röle durumu için değişken
     // Set web server port number to 80
