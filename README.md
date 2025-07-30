@@ -1,6 +1,8 @@
 # 💡 ESP32 Smart Light Controller
 
 A WiFi-enabled lighting control system built with ESP32 microcontroller. Control your lights remotely through a modern web interface with real-time status monitoring.
+![WhatsApp Image 2025-07-30 at 18 41 41_59eb591f](https://github.com/user-attachments/assets/a39bd5f8-c8a2-4ff3-bfd4-7e8669fdc04b)
+![WhatsApp Image 2025-07-30 at 18 41 41_a87e573f](https://github.com/user-attachments/assets/998152b1-65a2-4561-9996-4dcb932ce870)
 
 ## 🌟 Features
 
